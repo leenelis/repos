@@ -4,3 +4,15 @@ img {
     width: 300px;
     height: auto;
 }
+.produktai {
+    background-color: grey;
+    border: black solid 2px;
+    color: white;
+    padding-left: 5px;
+    border-radius: 5px;
+    
+}
+#header {
+    font-family: monospace, serif;
+}
+
